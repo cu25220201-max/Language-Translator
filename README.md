@@ -33,14 +33,14 @@ The main goal of this project is to build a tool that:
 
 Language_Translator/
 │
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # All dependencies
-├── README.md               # Project documentation
+├── app.py                  
+├── requirements.txt        
+├── README.md               
 │
-├── assets/                # (Optional) images/icons/screenshots
+├── assets/                
 │   └── demo.png
 │
-└── voice.mp3              # (Optional) generated audio file (auto-created)
+└── voice.mp3             
 
 ## 🎯 Project Objective
 
