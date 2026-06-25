@@ -30,7 +30,7 @@ The main goal of this project is to build a tool that:
 
 
 ## 📂 Project Structure
-
+```text
 Language_Translator/
 │
 ├── app.py                  
@@ -40,7 +40,9 @@ Language_Translator/
 ├── assets/                
 │   └── demo.png
 │
-└── voice.mp3             
+└── voice.mp3
+
+```           
 
 ## 🎯 Project Objective
 
